@@ -4,3 +4,6 @@ A website created for a personal portfolio using Django as the back-end, and Vue
 ## Tech Stack
 - Django
 - Vue.js
+
+## Config Management
+- GitHub
